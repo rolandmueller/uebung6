@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  amount: 9.99
+  description: MyString
+  balance_After_transaction: 9.99
+  account_id: 1
+
+two:
+  amount: 9.99
+  description: MyString
+  balance_After_transaction: 9.99
+  account_id: 1
